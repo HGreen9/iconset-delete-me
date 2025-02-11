@@ -33,3 +33,11 @@ svg {
   /* Center and fit */
   preserveAspectRatio: xMidYMid meet;
 }
+
+/* svg path:nth-child(3) {
+  stroke: blue;
+} */
+
+#3rd {
+  stroke: blue;
+}
